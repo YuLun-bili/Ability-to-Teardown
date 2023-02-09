@@ -1,0 +1,4 @@
+name = Ability to Ask
+author = Ability to Teardown
+description = [noupload]The pattern that would answer everything.
+tags = Gameplay, Global
