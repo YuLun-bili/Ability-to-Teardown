@@ -1,0 +1,4 @@
+name = Ability to Use Translator
+author = Ability to Teardown
+description = [noupload]The icon that translates everything.
+tags = Gameplay, Global
